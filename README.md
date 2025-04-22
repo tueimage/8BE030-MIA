@@ -17,7 +17,8 @@ This GitHub page contains information about the course and the study material. T
 
 TLDR: GitHub is for content, Canvas for communication and submission of assignments.
 
-dule
+
+## Schedule
 The 2025 edition of the course will be given on campus. The lectures will not be recorded to encourage on-campus participation.
 
 The schedule is as follows:
