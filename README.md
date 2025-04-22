@@ -32,7 +32,7 @@ The course schedule is summarized below:
 
 | Week | Day | Date   | Time        | Activity                                 | Module              | Lecturer         | Topic                                                                                                        |
 | ---- | --- | ------ | ----------- | ---------------------------------------- | ------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------ |
-| 1    | Thr | 24/Apr | 13:30-15:30 | Lecture                                  | Registration        | R. Su | Course introduction; introduction image registration; Geometrical transformations                            |
+| 1    | Thr | 24/Apr | 13:30-15:30 | Lecture                                  | Registration        | C. Scannell  & R. Su | Course introduction; introduction image registration; Geometrical transformations                            |
 |      | Thr | 24/Apr | 15:30-17:30 | Guided selfstudy                         | Registration        |                  |                                                                                                              |
 |      |     |        |             |                                          |                     |                  |                                                                                                              |
 | 2    | Mon | 28/Apr | 08:45-10:45 | Lecture                                  | Registration        | R. Su | Point-based registration                                                                                     |
