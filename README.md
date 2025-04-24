@@ -82,7 +82,7 @@ Please find below an overview of the lecture handhouts, the contents discussed, 
 | 2                      | Point-based registration                                        | Point-based registration (theory); Optimization; Evaluation of registration accuracy                                       | 1.2                                        |
 | 3                      | Intensity-based registration                                    | Probability theory; Intensity-based similarity metrics; Optimization; Gradient descent; Intensity-based image registration | Spread over three notebooks: 1.3, 1.4, 1.5 |
 |                        |                                                                 |                                                                                                                            |                                            |
-| 4                      | Validation; Active shape models                                 | Validation in medical image analysis; Active shape models                                                                  | 1.5; Notebook on Active Shape Models
+
 
 
 # Practical work (exercises and project work)
