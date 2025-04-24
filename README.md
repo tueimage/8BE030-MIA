@@ -72,6 +72,19 @@ The course schedule is summarized below:
 |      |     |        |             |                                          |                     |                  |                                                                                                              |
 | 10/11   |  |CHECK TIMETABLE|  | WRITTEN EXAM                             |                     |      |
 
+## Lectures handouts and connection with notebooks
+Please find below an overview of the lecture handhouts, the contents discussed, and the corresponding notebook(s).
+
+| Lecture handouts (PDF) | Filename                                                        | Contents                                                                                                                   | Notebook(s)                                |
+| ---------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1a                     | Course introduction                                             | Practical information about the course                                                                                     | 0.1                                        |
+| 1b                     | Introduction to image registration; Geometrical transformations | Review of linear algebra; Introduction to image registration; Geometrical transformations                                  | 1.1                                        |
+| 2                      | Point-based registration                                        | Point-based registration (theory); Optimization; Evaluation of registration accuracy                                       | 1.2                                        |
+| 3                      | Intensity-based registration                                    | Probability theory; Intensity-based similarity metrics; Optimization; Gradient descent; Intensity-based image registration | Spread over three notebooks: 1.3, 1.4, 1.5 |
+|                        |                                                                 |                                                                                                                            |                                            |
+| 4                      | Validation; Active shape models                                 | Validation in medical image analysis; Active shape models                                                                  | 1.5; Notebook on Active Shape Models
+
+
 # Practical work (exercises and project work)
 During the practical sessions the students can work on practical exercises and the project (however, it is expected that students will also work on the project in their own time). The goal of the practical exercises is to help study and understand the material, and develop code and methods that can be used to complete the project work. Your are expected to do this work independently with the help of the teaching assistants during the guided self-study sessions (begeleide zelfstudie). You can also post your questions in the Discussion section in Canvas at any time.
 
