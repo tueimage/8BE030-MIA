@@ -52,9 +52,9 @@ The course schedule is summarized below:
 |      | Mon | 19/May | 10:45-12:45 | Guided selfstudy                         | Segmentation        |                  |                                                                                                              |
 |      | Thr | 22/May | 13:30-15:30 | Lecture                                  | Segmentation        | C. Scannell      | Statistical shape models                                                                          |
 |      | Thr | 22/May | 15:30-17:30 | Guided selfstudy                         | Segmentation        |                  |                                                                                                              | 
-|      | Thr | 26/May | 23:59       | DEADLINE Report project 1 (registration) |                     | |      |
 |      |     |        |             |                                          |                     |                  |                                                                                                              |
-| 6    | Mon | 26/May | 08:45-10:45 | Lecture                                  | DL+applications     | C. Scannell      | Convolutional neural networks                                                           
+| 6    | Mon | 26/May | 23:59       | DEADLINE Report project 1 (registration) |                     | |      |
+|      | Mon | 26/May | 08:45-10:45 | Lecture                                  | DL+applications     | C. Scannell      | Convolutional neural networks                                                           
 |      | Mon | 26/May | 10:45-12:45 | Guided selfstudy                         | Segmentation        |                  |                                                                                                              |
 |      |     |        |             |                                          |                     |                  |                                                                                                              |
 | 7    | Mon | 02/Jun | 08:45-10:45 | Lecture                                  | DL+applications     | R. Su            |  Deep learning applications (registration)                                                                   |
@@ -81,7 +81,10 @@ Please find below an overview of the lecture handhouts, the contents discussed, 
 | 1b                     | Introduction to image registration; Geometrical transformations | Review of linear algebra; Introduction to image registration; Geometrical transformations                                  | 1.1                                        |
 | 2                      | Point-based registration                                        | Point-based registration (theory); Optimization; Evaluation of registration accuracy                                       | 1.2                                        |
 | 3                      | Intensity-based registration                                    | Probability theory; Intensity-based similarity metrics; Optimization; Gradient descent; Intensity-based image registration | Spread over three notebooks: 1.3, 1.4, 1.5 |
+| 4                      | Introduction to image segmentation                                 | ... | Continue with 1.3, 1.4, 1.5 |
+| 5                      | Catch-up lecture                              | ... | Registration project work |
 |                        |                                                                 |                                                                                                                            |                                            |
+
 
 
 
