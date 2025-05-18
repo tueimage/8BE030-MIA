@@ -82,9 +82,9 @@ Please find below an overview of the lecture handhouts, the contents discussed, 
 | 2                      | Point-based registration                                        | Point-based registration (theory); Optimization; Evaluation of registration accuracy                                       | 1.2                                        |
 | 3                      | Intensity-based registration                                    | Probability theory; Intensity-based similarity metrics; Optimization; Gradient descent; Intensity-based image registration | Spread over three notebooks: 1.3, 1.4, 1.5 |
 | 4                      | Introduction to image segmentation                              | Thresholding-based segmentation; Gaussian mixture models; Evaluation metrics for image segmentation.                       | Continue with 1.3, 1.4, 1.5                |
-| 5                      | Catch-up lecture                                                | ...                                                                                                                        | Registration project work                  |
+| -                      | Catch-up lecture                                                | ...                                                                                                                        | Registration project work                  |
 | 5                      | Segmentation in feature space                                   | Segmentation by K-Means clustering; Segmentation by classifiers; Generalization and overfitting                            | 2.1, 2.2 2.3                               |
-
+| 6                      | Graph-cuts                                   | Segmentation by graph-cuts; graph theory; ford-fulkerson                          | 2.3                               |
 
 
 
