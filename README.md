@@ -85,7 +85,8 @@ Please find below an overview of the lecture handhouts, the contents discussed, 
 | -                      | Catch-up lecture                                                | ...                                                                                                                        | Registration project work                  |
 | 5                      | Segmentation in feature space                                   | Segmentation by K-Means clustering; Segmentation by classifiers; Generalization and overfitting                            | 2.1, 2.2                               |
 | 6                      | Graph-cuts                                   | Segmentation by graph-cuts; graph theory; ford-fulkerson                          | 2.3                               |
-| 6                      | Statistical and actice shape models                                 | Shape theory; PCA; statistical shape models; segmentation by active shape models;                        | 2.4                               |
+| 7                      | Statistical and actice shape models                                 | Shape theory; PCA; statistical shape models; segmentation by active shape models;                        | 2.4                               |
+| 8                      | Convolutional neural networks                                 | Linear and logistic regression; machine learning with images; neural networks, CNNs                       | Catch-up 2.1->2.4                               |
 
 
 
